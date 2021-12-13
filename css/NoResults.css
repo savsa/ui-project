@@ -386,7 +386,7 @@ body {
   overflow: hidden;
 }
 .v47_94 {
-  width: 410px;
+  width: 205px;
   height: 90px;
   background: rgba(229,229,229,1);
   opacity: 1;
@@ -496,7 +496,7 @@ body, html {
 
 .item {
   width: 360px;
-  height: 180px;
+  height: 132px;
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -587,4 +587,9 @@ body, html {
 
 p {
   margin-top: -5px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
 }
